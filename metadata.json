@@ -1,0 +1,8 @@
+{
+    "shell-version": [ "3.16" ],
+    "uuid": "no-barriers@zeroepoch.com",
+    "name": "Disable Barrier Support",
+    "description": "Force disables XInput barrier support",
+    "url": "https://github.com/zeroepoch/gnome-shell-extension-no-barriers",
+    "version": 1
+}
